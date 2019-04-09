@@ -13,6 +13,7 @@ class Concurso {
            a++;
         }
            System.out.println(a);
+           System.out.println(e);
        }
    }
      
